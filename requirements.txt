@@ -1,0 +1,16 @@
+pandas>=3.0.0
+numpy>=2.0.0
+scikit-learn>=1.9.0
+xgboost>=3.4.0
+optbinning>=0.20.0
+matplotlib>=3.11.0
+seaborn
+plotly
+phik
+fastapi
+uvicorn[standard]
+pydantic
+evidently
+shap
+lightgbm
+scipy
