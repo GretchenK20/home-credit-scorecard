@@ -10,3 +10,4 @@ models/
 results/
 *.pkl
 evidently_drift_report.html
+data/db/
