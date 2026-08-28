@@ -47,13 +47,13 @@ curl -X POST http://localhost:8001/score \
 ---
 
 ## Project Structurehome-credit-scorecard/
-├── notebooks/
-│ ├── 01_eda.ipynb # Exploratory data analysis
-│ ├── 02_feature_engineering.ipynb # Feature engineering across 6 tables
-│ └── 03_scorecard_model.ipynb # WOE/IV, modeling, evaluation, monitoring
-├── api/
-│ └── main.py # FastAPI scoring endpoint
-└── src/ # Utility scripts
+ notebooks/
+│  01_eda.ipynb # Exploratory data analysis
+│  02_feature_engineering.ipynb # Feature engineering across 6 tables
+│ 03_scorecard_model.ipynb # WOE/IV, modeling, evaluation, monitoring
+api/
+│  main.py # FastAPI scoring endpoint
+ src/ # Utility scripts
 ---
 
 ## The Problem
