@@ -11,3 +11,6 @@ results/
 *.pkl
 evidently_drift_report.html
 data/db/
+scorecard_dbt/target/
+scorecard_dbt/logs/
+scorecard_dbt/dbt_packages/
