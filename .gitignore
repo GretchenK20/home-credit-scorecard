@@ -6,3 +6,7 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 pyvenv.cfg
+models/
+results/
+*.pkl
+evidently_drift_report.html
