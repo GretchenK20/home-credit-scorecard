@@ -164,8 +164,8 @@ https://www.kaggle.com/c/home-credit-default-risk/data
 
 ## About
 
-Built by Gretchen Kolthoff — MS Data Analytics candidate, B.S. Mathematics (SLU).
-Targeting analytics engineering and data science roles in fintech and consumer lending.
+ Gretchen Kolthoff — MS Data Analytics candidate, B.S. Mathematics (SLU).
+
 
 LinkedIn: https://www.linkedin.com/in/gretchen-kolthoff/
 GitHub: https://github.com/GretchenK20
