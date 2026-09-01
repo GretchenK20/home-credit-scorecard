@@ -2,6 +2,10 @@
 
 A production-grade probability of default (PD) scorecard built on 307,511 loan applications, mirroring the end-to-end modeling workflow at consumer fintech lenders. Built to demonstrate credit risk modeling, feature engineering at scale, and compliant model deployment.
 
+## Dashboard
+[📊 Scorecard Validation Dashboard (Tableau Public)](https://public.tableau.com/app/profile/gretchen.kolthoff/viz/HomeCreditDefaultRiskScorecardValidationDashboard/Dashboard1)
+
+Interactive visualization of model validation results — feature importance by IV, bad rate by EXT_SOURCE decile, payment behavior risk, bureau segment risk, and employment risk stratification.
 ---
 
 ## Results
