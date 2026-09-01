@@ -6,7 +6,7 @@ A production-grade probability of default (PD) scorecard built on 307,511 loan a
 [📊 Scorecard Validation Dashboard (Tableau Public)](https://public.tableau.com/app/profile/gretchen.kolthoff/viz/HomeCreditDefaultRiskScorecardValidationDashboard/Dashboard1)
 
 Interactive visualization of model validation results — feature importance by IV, bad rate by EXT_SOURCE decile, payment behavior risk, bureau segment risk, and employment risk stratification.
----
+
 
 ## Results
 
